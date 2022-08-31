@@ -116,7 +116,7 @@ hr{
 
 @media (max-width:1023px){
   body{
-    font-size: 20px;
+    font-size: 15px;
   }
   header{
     padding: 10px 12px;
@@ -155,4 +155,15 @@ footer{
 }
 
 }
+
+/* @media (max-width:500px) {
+  .header{
+    padding: 0;
+    margin: 0;
+    font-size: 5px;
+
+
+  }
+  
+} */
 
